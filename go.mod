@@ -1,3 +1,3 @@
-module github.com/andryompusunggu/go-say-hello.git
+module github.com/andryompusunggu/go-say-hello
 
 go 1.16
